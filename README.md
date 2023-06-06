@@ -1,4 +1,3 @@
-# chest_xray_pneumonia_classification_with_cnn
-🚧 Under construction... 🚧
-
+# Chest Xray Pneumonia Cclassification With CNN
+### 🚧 Under construction... 🚧
 full version with enhanced model and readme will be available soon
