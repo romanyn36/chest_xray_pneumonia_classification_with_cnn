@@ -70,8 +70,6 @@
 </a>
 
 
-
-
 <a href="https://www.linkedin.com/in/romanyn36" target="_blank">
   <img src="https://img.shields.io/badge/-@romanyn36-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
@@ -111,7 +109,9 @@ and achieved an accuracy of 89% on the test set. The
 architecture of the model consists of multiple
 convolutional layers, followed by max pooling and dense
 layers.
+
 #####dataset we used [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+
 #####full project in details in the [documentation](Chest%20X-Ray%20Image.pdf)
 
 ## :sparkles: Features ##
@@ -123,8 +123,8 @@ layers.
 
 
 ## :rocket: Technologies ##
-
-[](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)
+<p align='center'>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg width="45" height="45" />
 
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45" />
