@@ -109,9 +109,9 @@ architecture of the model consists of multiple
 convolutional layers, followed by max pooling and dense
 layers.
 
-#####dataset we used [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
+##### dataset we used [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
-#####full project in details in the [documentation](Chest%20X-Ray%20Image.pdf)
+##### full project in details in the [documentation](Chest%20X-Ray%20Image.pdf)
 
 ## :sparkles: Features ##
 
