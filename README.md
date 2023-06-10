@@ -116,10 +116,11 @@ layers.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: ;\
-:heavy_check_mark:  ;\
-:heavy_check_mark:  ;
+:heavy_check_mark:Classify the x-ray imagest to two category ;\
+- Pneumonia
+- Normal
 
+:heavy_check_mark:Used All evaluation metrics 
 
 
 ## :rocket: Technologies ##
@@ -138,6 +139,7 @@ layers.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" />
  
 </p>
+
 The following tools were used in this project:
 - tensorflow==2.12.0
 - tqdm 
