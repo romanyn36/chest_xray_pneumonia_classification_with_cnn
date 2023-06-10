@@ -111,6 +111,7 @@ and achieved an accuracy of 89% on the test set. The
 architecture of the model consists of multiple
 convolutional layers, followed by max pooling and dense
 layers.
+#####dataset we used [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 #####full project in details in the [documentation](Chest%20X-Ray%20Image.pdf)
 
 ## :sparkles: Features ##
@@ -153,7 +154,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [MySQL Community Server](https://dev.mysql.com/downloads/mysql/) and [Java](https://www.oracle.com/java/technologies/downloads/) installed.
+Before starting :checkered_flag:, you need to have tensorflow==2.12.0 and all mensioned libraries 
 
 ## :checkered_flag: Starting ##
 first create new environment or work in existing one if requirments satsfied 
