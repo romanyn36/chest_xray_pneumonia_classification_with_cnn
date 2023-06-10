@@ -98,7 +98,7 @@
 
 <br>
 
-## :dart: About ##
+# :dart: About ##
 
 In this project, we develop a convolutional neural
 network (CNN) model for classifying chest X-rays as
