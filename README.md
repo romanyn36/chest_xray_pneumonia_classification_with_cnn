@@ -77,7 +77,6 @@
 <a href="https://github.com/romanyn36" target="_blank">
   <img src="https://img.shields.io/badge/-@romanyn36-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
 </p>
 
 
