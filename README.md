@@ -176,7 +176,7 @@ $ pip install scikit-learn
 
 - Sara Reda Moatamed 
 
-- Rana Hasan Badrawy 
+- Rana Hasan Badrawy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![](https://img.shields.io/badge/-Rana_Hassan-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rana-hassan-34b01924a/)
 
 - Ziad El-Sayed Abdel-Azim&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-@zeyadusf-181717?style=flat&logo=github&logoColor=white)](https://github.com/zeyadusf) [![](https://img.shields.io/badge/-Zeyad_Usf-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-usf-360154214/)
 
