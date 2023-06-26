@@ -170,7 +170,7 @@ $ pip install scikit-learn
 
 ```
 ## :busts_in_silhouette: collaborators ##
-- Ahmed Mohamed Ali &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-@AhmedAboElkassem-181717?style=flat&logo=github&logoColor=white)](https://github.com/AhmedAboElkassem) <!-- [![](https://img.shields.io/badge/-Ahmed_Apo_Elkasem-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.apoelkasem.1?comment_id=Y29tbWVudDoyNTkwMjkzMTY4MDgyMTJfMjM3MjQyMzA5MjkyMDU0MA%3D%3D) -->
+- Ahmed Mohamed Ali &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-@AhmedAboElkassem-181717?style=flat&logo=github&logoColor=white)](https://github.com/AhmedAboElkassem) [![](https://img.shields.io/badge/-Ahmed_Ali-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/ahmed-ali-54292924b)
 
 - Reham Mustafa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-Reham_Mustafa-181717?style=flat&logo=github&logoColor=white)](https://github.com/Reham-Mustafa) [![](https://img.shields.io/badge/-Reham_Mustafa-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reham-mustafa-9a321b263/)
 
@@ -178,9 +178,9 @@ $ pip install scikit-learn
 
 - Rana Hasan Badrawy
 
-- Ziad El-Sayed Abdel-Azim&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-ZeyadEl_Saed-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZeyadEl-Saed)
+- Ziad El-Sayed Abdel-Azim&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-@zeyadusf-181717?style=flat&logo=github&logoColor=white)](https://github.com/zeyadusf) [![](https://img.shields.io/badge/-Zeyad_Usf-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeyad-usf-360154214/)
 
- - Rawan Abdel-Aziz Ahmed&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-@rawanazizsaad-181717?style=flat&logo=github&logoColor=white)](https://github.com/rawanazizsaad)
+ - Rawan Abdel-Aziz Ahmed&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/-@rawanazizsaad-181717?style=flat&logo=github&logoColor=white)](https://github.com/rawanazizsaad) [![](https://img.shields.io/badge/-Email-D14836?style=flat&logo=mail.ru&logoColor=white)](mailto:rawansaad222222@gmail.com)
 
 ### :email: Contact ##
 
@@ -232,7 +232,7 @@ $ pip install scikit-learn
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/romanyn36/romanyn36/blob/main/License.md)
+This project is under license from MIT. For more details. [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](License.md)
 
 
 Made by <a href="https://github.com/romanyn36" target="_blank">Romani</a>
